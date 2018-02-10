@@ -1,24 +1,26 @@
-# README
+#Museum App#
+######my first solo project go easy on me
+##Languages/Gems##
+-Ruby on Rails
+-Postgresql
+-Javascript/HTML/CSS
+-Devise(Maybe if I feel like testing admin/user privledge)
+-twitter-bootstrap-rails because I'm lazy
+-rspec to learn TTD
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+#Goals#
+-Display a homepage, displaying what the website is, probably a title, and a few paragraphs explaining what it is and what you can do.
 
-* System dependencies
+-Have a page that will display museum entries, things like old guns, but ranging all the way back to dinos.
 
-* Configuration
+-There will be seperate pages that will sort things based upon their era.
 
-* Database creation
+-Edit, Delete functions for ADMIN users(maybe if its not too hard for me but i will stive for this)
 
-* Database initialization
+-Show function for each entry, with additional info on it, probably just that latin stuff because im lazy
 
-* How to run the test suite
+-Custom routes for a contact page.
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+-Please (clap)work.
