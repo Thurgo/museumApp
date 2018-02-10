@@ -17,7 +17,7 @@
 
 - There will be seperate pages that will sort things based upon their era.
 
-- Edit, Delete functions for ADMIN users(maybe if its not too hard for me but i will stive for this)
+- Edit, Delete functions for ADMIN users(maybe if its not too hard for me but i will strive for this)
 
 - Show function for each entry, with additional info on it, probably just that latin stuff because im lazy
 
