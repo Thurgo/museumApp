@@ -1,12 +1,12 @@
 # Museum App #
 ###### my first solo project go easy on me
 ## Languages/Gems ##
--Ruby on Rails
--Postgresql
--Javascript/HTML/CSS
--Devise(Maybe if I feel like testing admin/user privledge)
--twitter-bootstrap-rails because I'm lazy
--rspec to learn TTD
+- Ruby on Rails
+- Postgresql
+- Javascript/HTML/CSS
+- Devise(Maybe if I feel like testing admin/user privledge)
+- twitter-bootstrap-rails because I'm lazy
+- rspec to learn TTD
 
 
 
